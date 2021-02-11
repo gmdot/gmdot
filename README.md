@@ -1,16 +1,36 @@
-### Hi there 👋
+# AboutMe
+<p>
+Meu nome é Gustavo Moura, tenho 15 anos, e sou programador de c++ e python, atualmente focando no aprendizado em java. Programação é a minha paixão e espero evoluir e aprender bastante ná área de TI.
+</p>
 
-<!--
-**GustavoMoura-Dev/GustavoMoura-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technologies
+* Python
+* C++
+* Java
 
-Here are some ideas to get you started:
+```
+void try_Again();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+void life()
+{
+    for (int learn; int know = true; learn++)
+    {
+        if (int know = false)
+        {
+            try_Again();
+        }
+        
+    }
+}
+
+void try_Again()
+{
+    void life();
+}
+```          
+
+# Socials
+* [Twitter](https://twitter.com/m4ddz7)
+* [Instagram](https://www.instagram.com/m4ddz7/)
+
+<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" widht="220" height="220">
