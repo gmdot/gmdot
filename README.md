@@ -6,7 +6,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, e sou programador de c++ e python, atu
 # Technologies
 * Python
 * C++
-* Java
 
 ```
 void try_Again();
