@@ -33,4 +33,4 @@ void try_Again()
 * [Instagram](https://www.instagram.com/m4ddz7/)
 * [LinkedIn](https://www.linkedin.com/in/gustavo-mouradev/)
 
-<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" widht="220" height="220">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2423375955450527378/F0244B5A54A3EA82A1E3B6D18A97569EFF1AE1A2/">
