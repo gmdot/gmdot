@@ -31,5 +31,6 @@ void try_Again()
 # Socials
 * [Twitter](https://twitter.com/m4ddz7)
 * [Instagram](https://www.instagram.com/m4ddz7/)
+* [LinkedIn](https://www.linkedin.com/in/gustavo-mouradev/)
 
 <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" widht="220" height="220">
