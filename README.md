@@ -1,11 +1,14 @@
 # AboutMe
 <p>
-Meu nome é Gustavo Moura, tenho 15 anos, e sou programador de c++ e python. Programação é a minha paixão e espero evoluir e aprender bastante ná área de TI.
+Meu nome é Gustavo Moura, eu apenas sou apaixonado em programação, tenho mais habilidade em c++, python, html, css e javascript. O resto, é história(que ainda está por vir).
 </p>
 
 # Technologies
 * Python
 * C++
+* JS
+* HTML
+* CSS
 
 ```
 void try_Again();
