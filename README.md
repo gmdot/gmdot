@@ -1,6 +1,6 @@
 # AboutMe
 <p>
-Meu nome é Gustavo Moura, eu apenas sou apaixonado em programação, tenho mais habilidade em c++, python, html, css e javascript. O resto, é história(que ainda está por vir).
+Meu nome é Gustavo Moura, eu apenas sou apaixonado em programação, tenho habilidade em c++, python, html, css e javascript. O resto, é história(que ainda está por vir).
 </p>
 
 # Technologies
