@@ -37,5 +37,3 @@ void try_Again()
 * [Twitter](https://twitter.com/m4ddz7)
 * [Instagram](https://www.instagram.com/m4ddz7/)
 * [LinkedIn](https://www.linkedin.com/in/gustavo-mouradev/)
-
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2423375955450527378/F0244B5A54A3EA82A1E3B6D18A97569EFF1AE1A2/">
