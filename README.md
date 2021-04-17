@@ -8,7 +8,10 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdot&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
 
-# Technologies
+<div>
+  <h1>Technologies</h1>
+  <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+</div>
 * Python
 * C++
 * JS
