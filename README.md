@@ -21,6 +21,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
 <div>
   <li>
     <a href="https://twitter.com/m4ddz7">Twitter</a>
-    <a href="https://instagram.com/m4ddz7">Twitter</a>
+    <a href="https://instagram.com/m4ddz7">Instagram</a>
   </li>
 </div>
