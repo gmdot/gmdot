@@ -6,7 +6,7 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <a href="https://github.com/gmdot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdot&layout=compact&langs_count=8&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=gmdot)" src="https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 <div>
