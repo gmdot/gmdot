@@ -34,4 +34,5 @@ void try_Again()
 ```          
 ## Socials
 * [Twitter](https://twitter.com/m4ddz7)
+* [Instagram](https://instagram.com/m4ddz7)
 
