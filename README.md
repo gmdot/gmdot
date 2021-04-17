@@ -32,7 +32,6 @@ void try_Again()
     void life();
 }
 ```          
-<div>
-    <h1>Socials</h1>
+## Socials
     ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7)
-</div>
+
