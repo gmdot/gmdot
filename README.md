@@ -13,7 +13,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 </div>
 * Python
 * C++
