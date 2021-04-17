@@ -3,9 +3,7 @@
 Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhecimento sobre C++, Python, HTML, CSS e JS. Sempre fui interessado em TI e principalmente em programação. Estou aprofundando ao máximo os meus conhecimentos em desenvolvimento web e de software.
 </p>
 
-<h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=dracula)
-</h1>
 
 ##
 <h1>Technologies</h1>
