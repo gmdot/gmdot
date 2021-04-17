@@ -33,5 +33,5 @@ void try_Again()
 }
 ```          
 ## Socials
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7)
+![Twitter URL](https://twitter.com/m4ddz7)
 
