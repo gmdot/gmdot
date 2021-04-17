@@ -34,5 +34,5 @@ void try_Again()
 ```          
 <div>
     <h1>Socials</h1>
-    https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7
+    <img><a>https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7</a></img>
 </div>
