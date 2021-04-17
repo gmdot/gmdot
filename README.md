@@ -5,8 +5,7 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=dracula)
 
-##
-<h1>Technologies</h1>
+##Technologies
 * Python
 * C++
 * JS
