@@ -16,7 +16,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-##
 
 ```
 void try_Again();
