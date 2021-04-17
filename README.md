@@ -32,8 +32,7 @@ void try_Again()
     void life();
 }
 ```          
-
-# Socials
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7)
-* [Instagram](https://www.instagram.com/m4ddz7/)
-* [LinkedIn](https://www.linkedin.com/in/gustavo-mouradev/)
+<div>
+    <h1>Socials</h1>
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-     badge&url=https%3A%2F%2Ftwitter.com%2Fm4ddz7">
+</div>
