@@ -2,8 +2,10 @@
 
 Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhecimento sobre C++, Python, HTML, CSS e JS. Sempre fui interessado em TI e principalmente em programação. Estou aprofundando ao máximo os meus conhecimentos em desenvolvimento web e de software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gmdot&layout=compact&langs_count=8&theme=highcontrast)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=highcontrast"/>
+</div>
 
 # Technologies
 * Python
