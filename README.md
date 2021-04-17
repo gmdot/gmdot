@@ -13,13 +13,9 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-* Python
-* C++
-* JS
-* HTML
-* CSS
-
 ```
 void try_Again();
 
@@ -43,4 +39,3 @@ void try_Again()
 ## Socials
 * [Twitter](https://twitter.com/m4ddz7)
 * [Instagram](https://instagram.com/m4ddz7)
-
