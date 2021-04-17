@@ -33,5 +33,5 @@ void try_Again()
 }
 ```          
 ## Socials
-![](https://twitter.com/m4ddz7)
+![Twitter](https://twitter.com/m4ddz7)
 
