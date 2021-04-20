@@ -1,6 +1,6 @@
 # Olá, BIG mundo!
 
-Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhecimento sobre C++, Python, HTML, CSS e JS. Sempre fui interessado em TI e principalmente em programação. Estou aprofundando ao máximo os meus conhecimentos em desenvolvimento web e de software.
+Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhecimento sobre C++, Python, HTML e CSS. Sempre fui interessado em TI e principalmente em programação. Estou aprofundando ao máximo os meus conhecimentos em desenvolvimento web e de software.
 
 <div>
   <a href="https://github.com/gmdot">
