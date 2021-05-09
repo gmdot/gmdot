@@ -6,7 +6,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <a href="https://github.com/gmdot">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdot&layout=compact&langs_count=8&theme=merko"/>
-  <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=login-form&theme=merko"/>
 </div>
 
 <div>
@@ -25,4 +24,8 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <li>
     <a href="https://instagram.com/m4ddz7">Instagram</a>
   </li>
+</div>
+<div>
+  <h1>Repositories</h1>
+  <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=login-form&theme=merko"/>
 </div>
