@@ -28,18 +28,18 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
 <div>
   <h1>Repositories</h1>
   <a href="https://github.com/gmdot/login-form">
-   <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=login-form&theme=merko"/>
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=login-form&theme=merko"/>
   </a>
   <a href="https://github.com/gmdot/learningJS">
-   <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=learningJS&theme=merko"/>
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=learningJS&theme=merko"/>
   </a>
   <a href="https://github.com/gmdot/Sign-Up-form">
-   <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Sign-Up-form&theme=merko"/>
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Sign-Up-form&theme=merko"/>
   </a>
   <a href="https://github.com/gmdot/note-site">
-   <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=note-site&theme=merko"/>
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=note-site&theme=merko"/>
   </a>
   <a href="https://github.com/gmdot/Dice-game">
-   <img aling="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
   </a>
 </div>
