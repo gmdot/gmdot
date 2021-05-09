@@ -4,7 +4,7 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
 
 <div>
   <a href="https://github.com/gmdot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=gmdot&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdot&layout=demo&langs_count=8&theme=merko"/>
 </div>
 
