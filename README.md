@@ -42,4 +42,7 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <a href="https://github.com/gmdot/Dice-game">
    <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
   </a>
+  <a href="https://github.com/gmdot/music-login-site">
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
+  </a>
 </div>
