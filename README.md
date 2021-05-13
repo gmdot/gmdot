@@ -27,6 +27,9 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
 </div>
 <div>
   <h1>Repositories</h1>
+  <a href="https://github.com/gmdot/music-login-site">
+   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=music-login-site&theme=merko"/>
+  </a>
   <a href="https://github.com/gmdot/login-form">
    <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=login-form&theme=merko"/>
   </a>
@@ -40,9 +43,6 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
    <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=note-site&theme=merko"/>
   </a>
   <a href="https://github.com/gmdot/Dice-game">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/music-login-site">
    <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
   </a>
 </div>
