@@ -14,7 +14,7 @@ Meu nome é Gustavo Moura, tenho 16 anos, sou desenvolvedor web e mobile front-e
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
+  <img width="60" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
 </div>
         
 <div>
