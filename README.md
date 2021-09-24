@@ -1,6 +1,6 @@
 # Olá, BIG mundo!
 
-Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhecimento sobre C++, JS, HTML e CSS. Sempre fui interessado em TI e principalmente em programação. Estou aprofundando ao máximo os meus conhecimentos em desenvolvimento web e de software.
+Meu nome é Gustavo Moura, tenho 16 anos, sou desenvolvedor web e mobile front-end. Trabalho com o framework React Native para a realização das minhas aplicações mobile e ReactJS para as minhas aplicaçoes web que necessitam ser escaláveis. Possuo conhecimento em c++ e python para a resolução de problemas e automação de atividades.
 
 <div>
   <a href="https://github.com/gmdot">
@@ -24,25 +24,4 @@ Meu nome é Gustavo Moura, tenho 15 anos, possuo habilidade e adquiro mais conhe
   <li>
     <a href="https://instagram.com/m4ddz7">Instagram</a>
   </li>
-</div>
-<div>
-  <h1>Repositories</h1>
-  <a href="https://github.com/gmdot/shortcut_gcc_compiler">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=shortcut_gcc_compiler&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/react_nativeLearn">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=react_nativeLearn&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/learningJS">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=learningJS&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/Sign-Up-form">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Sign-Up-form&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/note-site">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=note-site&theme=merko"/>
-  </a>
-  <a href="https://github.com/gmdot/Dice-game">
-   <img aling="center" height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=gmdot&repo=Dice-game&theme=merko"/>
-  </a>
 </div>
