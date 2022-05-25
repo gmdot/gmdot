@@ -1,4 +1,4 @@
-# Olá, BIG mundo!
+<h1 align="center">Olá 👋, mundo!</h1>
 
 Meu nome é Gustavo Moura, tenho 16 anos, sou desenvolvedor web e mobile front-end. Trabalho com o framework React Native para a realização das minhas aplicações mobile e ReactJS para as minhas aplicaçoes web que necessitam ser escaláveis. Possuo conhecimento em c++ e python para a resolução de problemas e automação de atividades.
 
