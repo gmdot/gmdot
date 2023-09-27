@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, mundo!</h1>
 
-Meu nome é Gustavo Moura, tenho 17 anos, sou desenvolvedor web e mobile front-end. Trabalho com o framework React Native para a realização das minhas aplicações mobile e ReactJS para as minhas aplicaçoes web que necessitam ser escaláveis. Possuo conhecimento em c++ e python para a resolução de problemas e automação de atividades.
+Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-end. Trabalho com o framework React Native para a realização das minhas aplicações mobile e ReactJS para as minhas aplicaçoes web que necessitam ser escaláveis. Possuo conhecimento em c++ e python para a resolução de problemas e automação de atividades.
 
 <div>
   <a href="https://github.com/gmdot">
