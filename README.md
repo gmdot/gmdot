@@ -19,7 +19,7 @@ Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-e
         
 <div>
   <h1>Redes Sociais</h1>
-  <li>
-    <a href="https://instagram.com/gmdot_">Instagram</a>
-  </li>
+    <a href="https://instagram.com/gmdot_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+    </a>
 </div>
