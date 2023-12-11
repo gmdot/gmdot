@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, mundo!</h1>
 
-Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-end. Trabalho com o framework React Native para a realização das minhas aplicações mobile e ReactJS para as minhas aplicaçoes web que necessitam ser escaláveis. Possuo conhecimento em c++ e python para a resolução de problemas e automação de atividades.
+Meu nome é Gustavo Moura, tenho 18 anos, sou estudante de programação nas horas vagas. Possuo conhecimento em desenvolvimento web [HTML, CSS e JS] e nas linguagens C++ e Python.
 
 <div>
   <a href="https://github.com/gmdot">
@@ -22,9 +22,11 @@ Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-e
     <a href="https://instagram.com/gmdot_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
     </a>
+  <br>
   <a href="https://www.linkedin.com/in/gmdot/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
+  <br>
   <a href="https://open.spotify.com/user/iyq6kn1zost04hb2o8jbt2ahh?si=bd226ca72eb0488e">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img>
   </a>
