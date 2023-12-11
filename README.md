@@ -9,7 +9,7 @@ Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-e
 </div>
 
 <div>
-  <h1>Technologies</h1>
+  <h1>Tecnologias</h1>
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img aling="center" widht="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@ Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-e
 </div>
         
 <div>
-  <h1>Socials</h1>
+  <h1>Redes Sociais</h1>
   <li>
     <a href="https://instagram.com/gmdot_">Instagram</a>
   </li>
