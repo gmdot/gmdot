@@ -22,4 +22,10 @@ Meu nome é Gustavo Moura, tenho 18 anos, sou desenvolvedor web e mobile front-e
     <a href="https://instagram.com/gmdot_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
     </a>
+  <a href="https://www.linkedin.com/in/gmdot/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>
+  <a href="https://open.spotify.com/user/iyq6kn1zost04hb2o8jbt2ahh?si=bd226ca72eb0488e">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img>
+  </a>
 </div>
