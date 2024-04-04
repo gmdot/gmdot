@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, mundo!</h1>
 
-Meu nome é Gustavo Moura, tenho 18 anos, sou estudante de programação nas horas vagas. Possuo conhecimento em desenvolvimento web <b>HTML, CSS e JS</b> e nas linguagens <b>C++</b> e <b>Python</b>.
+Meu nome é Gustavo Moura, tenho 18 anos, sou estudante de programação nas horas vagas. Possuo conhecimento em desenvolvimento web <b>HTML, CSS, JS e React</b> e nas linguagens <b>C++</b> e <b>Python</b>.
 
 <div>
   <a href="https://github.com/gmdot">
